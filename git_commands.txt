@@ -1,0 +1,22 @@
+  244  ls
+  245  cd Desktop
+  246  ls
+  247  cd workSpace
+  248  ls
+  249  cd git-for-devops
+  250  clear
+  252  git status
+  253  ls
+  254  cat testing.py
+  255  git push origin master
+  256  clear
+  257  git remote -v
+  259  git remote -v
+  260  clear
+  261  git remote -v
+  262  git pust origin master
+  263  git push origin master
+  264  git remote set-url origin 
+  265  git push origin master
+  266  clear
+  267  history
