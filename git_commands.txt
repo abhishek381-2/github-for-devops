@@ -20,3 +20,10 @@
   265  git push origin master
   266  clear
   267  history
+    286  clear
+  287  ls
+  288  git status
+  289  git commit -m "git commands file created"
+  290  git status
+  291  git push origin master
+  292  history
